@@ -1,2 +1,2 @@
 # Contact-Us-Client
-Contact us using react as front end
+Contact us using react.js as front end
